@@ -46,7 +46,7 @@ pipeline {
         }
       }
     }
-     DO NOT uncomment until 06_04 Lab
+     //DO NOT uncomment until 06_04 Lab
     
     stage('DT Deploy Event') {
       steps {
